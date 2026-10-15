@@ -14,8 +14,8 @@ This repository documents my self-directed training as part of my transition tow
 | 2 | Repeating instructions | Completed |
 | 3 | Calculations and variables | Completed |
 | 4 | Reading input | Completed |
-| 5 | Tests and conditions | In progress |
-| 6 | Advanced structures | Upcoming |
+| 5 | Tests and conditions | Completed |
+| 6 | Advanced structures | In progress |
 | 7 | Advanced conditions and boolean operators | Upcoming |
 | 8 | Conditional loops | Upcoming |
 
